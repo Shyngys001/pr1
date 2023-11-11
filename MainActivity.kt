@@ -66,5 +66,10 @@ fun AffirmationsApp() {
     )
 }
 
+@Composable
+fun AffirmationList(affirmationList: List<Affirmation>, modifier: Modifier = Modifier) {
+    
+}
+
 
 
